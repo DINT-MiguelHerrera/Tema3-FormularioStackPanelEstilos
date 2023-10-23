@@ -6,6 +6,11 @@
     <RootNamespace>Tema3_FormularioStackPanelEstilos</RootNamespace>
     <Nullable>enable</Nullable>
     <UseWPF>true</UseWPF>
+    <ApplicationIcon>IconoFormularioStackPanel.ico</ApplicationIcon>
   </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="IconoFormularioStackPanel.ico" />
+  </ItemGroup>
 
 </Project>
